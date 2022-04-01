@@ -1,0 +1,68 @@
+body {
+	
+
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 40px;
+}
+
+#fundo {
+	width: 100%;
+	
+
+}
+
+nav {
+
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline-block ;
+	margin: 0 0 0 15px;
+
+}
+
+nav a {
+
+	text-transform: uppercase;
+	color: #0000FF;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+
+
+}
+
+.principal {
+	background: #FAF0E6;
+	width: 100%;
+
+}
+ 
+ .titulo-centralizado {
+	text-align: center;
+	font-family: Arial;
+	font-size: 40px;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+		em strong {
+			color: #0000FF;
+		}
+

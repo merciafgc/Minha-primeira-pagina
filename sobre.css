@@ -1,0 +1,37 @@
+header {
+	background: #FAF0E6;
+	padding: 20px 0 ;
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+	border-radius: 50%;
+
+
+}
+
+.foto {
+	height: 200px;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;			
+			
+}
+
+.titulo-centralizado {
+	text-align: center;
+	font-size: 40px;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+}
